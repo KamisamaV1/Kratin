@@ -30,6 +30,7 @@ public class bruh {
                 case 3:
                     System.out.println("Emergency Info: ");
                     System.out.println("Name : Sunita Sharma");
+                    System.out.println("Blood Group : O +ve");
                     System.out.println("Ailment : Narcolepsy");
                     System.out.println("Guardian Contact Info : 123456790");
                     System.out.println("In case of Emergency provide : TabletX - 1 dosage");
